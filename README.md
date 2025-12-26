@@ -31,4 +31,5 @@
 Run everything in a single command:
 
 ```bash
-git clone https://github.com/chetan19-cool/ultimate-pro-riced-manager.git && cd ultimate-pro-riced-manager/installer && bash install.sh
+git clone https://github.com/chetan19-cool/ultimate-pro-riced-manager.git && cd ultimate-pro-riced-manager && bash riced-manager.sh
+
